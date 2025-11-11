@@ -71,12 +71,7 @@ pip install -r requirements.txt
 - Images resized to 128×128
 - Binary masks used for lesion segmentation
 
-## 👨‍💻 Author
 
-Arnav Kulkarni  
-IIT Mandi  
-GitHub: [arnavkulkarni2005](https://github.com/arnavkulkarni2005)
 
----
 
 
